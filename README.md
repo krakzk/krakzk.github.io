@@ -6,6 +6,10 @@ Initial Commit on 10-Mar-2022
 
 v0.1.1
 React Portfolio created based on EGATOR tutorial.
+v0.1.2
+Contact details update
+v0.1.3
+Typo issues and Whatsapp issues resolved
 
 
 ## Available Scripts

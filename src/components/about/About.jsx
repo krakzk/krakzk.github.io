@@ -45,7 +45,7 @@ const About = () => {
             </article>*/}
           </div>
           <p>
-            Developer worling on mobile and web technologies. Experienced creating Android and iOS apps for internationally acclaimed clients. Published and maintained applications in Google and Apple stores.
+            Developer working on mobile and web technologies. Experienced creating Android and iOS apps for internationally acclaimed clients. Published and maintained applications in Google and Apple stores.
 Working on web application on both front and backend development.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
