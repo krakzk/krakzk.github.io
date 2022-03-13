@@ -1,7 +1,7 @@
 {
   "homepage": "https://devdictator.com",
   "name": "devdictator-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
