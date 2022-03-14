@@ -10,6 +10,8 @@ v0.1.2
 Contact details update
 v0.1.3
 Typo issues and Whatsapp issues resolved
+v0.1.4
+Footer Updates
 
 
 ## Available Scripts
